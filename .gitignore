@@ -1,0 +1,10 @@
+# .gitignore for ModAPI projects by Moritz Scheve last edited 18.10.2019
+
+[mM]od/
+[rR]elease/
+[oO]bj/
+.vs/
+
+/*.user
+
+!.gitignore

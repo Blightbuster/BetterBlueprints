@@ -1,0 +1,18 @@
+<Mod ID="BetterBlueprints">
+  <Compatible>1.11b</Compatible>
+  <Button Standard="F" ID="ReverseRotateKey">
+    <Name>
+      <EN>Reverse Rotate Key</EN>
+    </Name>
+    <Description>
+      <EN>Reverse Rotate Key</EN>
+    </Description>
+  </Button>
+  <Name>
+    <EN>Better Blueprints</EN>
+  </Name>
+  <Description>
+    <EN>Beta testing version only</EN>
+  </Description>
+  <Version>2.1.0</Version>
+</Mod>
